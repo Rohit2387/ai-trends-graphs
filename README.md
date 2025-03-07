@@ -87,13 +87,6 @@ This will generate graphs for AI investments, job postings, patents, and adoptio
 
 ---
 
-## 📊 Sample Visualization
-Below is an example plot of **AI Investment Growth** over time:
-
-![AI Investment Growth](https://via.placeholder.com/800x400?text=Sample+Graph)
-
----
-
 ## 🤝 Contributing
 1. **Fork** the repository.
 2. **Clone** your fork:
