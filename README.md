@@ -1,13 +1,14 @@
- # AI Adoption Trends Analysis
+ # DataScience visualizations using Python 
+** UseCase: Graph for AI Adoption Trends ** 
 
 ## 📌 Project Overview
-This project analyzes AI adoption trends from 2010 to 2030, focusing on investment, job postings, patents, and global adoption rates. It includes data generation, visualization, and forecasting components, with all results presented through Jupyter notebooks.
+This project examines AI adoption trends from 2010 to 2030, analyzing investment, job postings, patents, and global adoption rates. It features dummy data generation, visualization, and forecasting, with results presented in Jupyter notebooks and Python code. This project demonstrates how to create data science visualizations using Python
 
 ---
 
 ## 📁 Project Structure
 ```
-AI_Adoption_Trends/
+ai-trends-graphs/
 │── data/                        # Contains the AI trends dataset
 │   ├── ai_trends_dummy.csv      # Generated dataset (synthetic AI trends data)
 │── notebooks/                   # Jupyter notebooks for analysis
@@ -26,8 +27,8 @@ AI_Adoption_Trends/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/AI_Adoption_Trends.git
-cd AI_Adoption_Trends
+git clone https://github.com/your-username/ai-trends-graphs.git
+cd ai-trends-graphs
 ```
 
 ### **2️⃣ Create a Virtual Environment (Optional, Recommended)**
@@ -91,7 +92,7 @@ This will generate graphs for AI investments, job postings, patents, and adoptio
 1. **Fork** the repository.
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/your-username/AI_Adoption_Trends.git
+   git clone https://github.com/your-username/ai-trends-graphs.git
    ```
 3. **Create a branch** for your feature:
    ```bash
@@ -112,8 +113,8 @@ This will generate graphs for AI investments, job postings, patents, and adoptio
 
 ## 📞 Contact
 For any queries or collaborations, feel free to reach out!
-- **GitHub**: [Your Profile](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: (https://github.com/Rohit2387)
+
 
  
 
