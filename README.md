@@ -27,7 +27,7 @@ ai-trends-graphs/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/ai-trends-graphs.git
+git clone https://github.com/Rohit2387/ai-trends-graphs.git
 cd ai-trends-graphs
 ```
 
@@ -92,7 +92,7 @@ This will generate graphs for AI investments, job postings, patents, and adoptio
 1. **Fork** the repository.
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/your-username/ai-trends-graphs.git
+   git clone https://github.com/Rohit2387/ai-trends-graphs.git
    ```
 3. **Create a branch** for your feature:
    ```bash
